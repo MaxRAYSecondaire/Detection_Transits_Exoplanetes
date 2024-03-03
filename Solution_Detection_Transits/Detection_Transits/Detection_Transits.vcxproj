@@ -129,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\src\outils.c" />
-    <ClCompile Include="Graphiques.c" />
+    <ClCompile Include="Graphiques_CSV.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\outils.h" />
