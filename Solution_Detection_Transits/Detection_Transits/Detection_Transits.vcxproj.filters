@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Detection_Transits.cpp">
+    <ClCompile Include="Graphiques.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
